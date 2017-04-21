@@ -1,34 +1,34 @@
 <svg height="494" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="494" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 12:25:47 +0000    63894 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 12:25:47 +0000     1136 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 12:25:47 +0000     1081 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 12:25:47 +0000    10492 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 12:25:47 +0000      510 bytes  RNDeviceInfo.podspec</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 12:25:47 +0000     9448 bytes  RNDeviceInfo.xcodeproj/project.pbxproj</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 12:25:47 +0000      157 bytes  RNDeviceInfo.xcodeproj/project.xcworkspace/conte\</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 12:26:47 +0000    63894 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 12:26:47 +0000     1136 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 12:26:47 +0000     1081 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 12:26:47 +0000    10492 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 12:26:47 +0000      510 bytes  RNDeviceInfo.podspec</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 12:26:47 +0000     9448 bytes  RNDeviceInfo.xcodeproj/project.pbxproj</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 12:26:47 +0000      157 bytes  RNDeviceInfo.xcodeproj/project.xcworkspace/conte\</tspan>
 <tspan x="10" y="138">nts.xcworkspacedata</tspan>
-<tspan x="10" y="154">  7.  2017-04-21 12:25:47 +0000       91 bytes  RNDeviceInfo/DeviceUID.h</tspan>
-<tspan x="10" y="170">  8.  2017-04-21 12:25:47 +0000     4472 bytes  RNDeviceInfo/DeviceUID.m</tspan>
-<tspan x="10" y="186">  9.  2017-04-21 12:25:47 +0000      379 bytes  RNDeviceInfo/RNDeviceInfo.h</tspan>
-<tspan x="10" y="202"> 10.  2017-04-21 12:25:47 +0000     9130 bytes  RNDeviceInfo/RNDeviceInfo.m</tspan>
-<tspan x="10" y="218"> 11.  2017-04-21 12:25:47 +0000      480 bytes  android/build.gradle</tspan>
-<tspan x="10" y="234"> 12.  2017-04-21 12:25:47 +0000      140 bytes  android/src/main/AndroidManifest.xml</tspan>
-<tspan x="10" y="250"> 13.  2017-04-21 12:25:47 +0000      993 bytes  android/src/main/java/com/learnium/RNDeviceInfo/\</tspan>
+<tspan x="10" y="154">  7.  2017-04-21 12:26:47 +0000       91 bytes  RNDeviceInfo/DeviceUID.h</tspan>
+<tspan x="10" y="170">  8.  2017-04-21 12:26:47 +0000     4472 bytes  RNDeviceInfo/DeviceUID.m</tspan>
+<tspan x="10" y="186">  9.  2017-04-21 12:26:47 +0000      379 bytes  RNDeviceInfo/RNDeviceInfo.h</tspan>
+<tspan x="10" y="202"> 10.  2017-04-21 12:26:47 +0000     9130 bytes  RNDeviceInfo/RNDeviceInfo.m</tspan>
+<tspan x="10" y="218"> 11.  2017-04-21 12:26:47 +0000      480 bytes  android/build.gradle</tspan>
+<tspan x="10" y="234"> 12.  2017-04-21 12:26:47 +0000      140 bytes  android/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="250"> 13.  2017-04-21 12:26:47 +0000      993 bytes  android/src/main/java/com/learnium/RNDeviceInfo/\</tspan>
 <tspan x="10" y="266">RNDeviceInfo.java</tspan>
-<tspan x="10" y="282"> 14.  2017-04-21 12:25:47 +0000     4671 bytes  android/src/main/java/com/learnium/RNDeviceInfo/\</tspan>
+<tspan x="10" y="282"> 14.  2017-04-21 12:26:47 +0000     4671 bytes  android/src/main/java/com/learnium/RNDeviceInfo/\</tspan>
 <tspan x="10" y="298">RNDeviceModule.java</tspan>
-<tspan x="10" y="314"> 15.  2017-04-21 12:25:47 +0000      841 bytes  deviceinfo.d.ts</tspan>
-<tspan x="10" y="330"> 16.  2017-04-21 12:25:47 +0000     1609 bytes  deviceinfo.js</tspan>
-<tspan x="10" y="346"> 17.  2017-04-21 12:25:47 +0000      556 bytes  package.json</tspan>
-<tspan x="10" y="362"> 18.  2017-04-21 12:25:47 +0000     1062 bytes  windows/RNDeviceInfo/Properties/AssemblyInfo.cs</tspan>
-<tspan x="10" y="378"> 19.  2017-04-21 12:25:47 +0000     1542 bytes  windows/RNDeviceInfo/Properties/RNDeviceInfo.rd.\</tspan>
+<tspan x="10" y="314"> 15.  2017-04-21 12:26:47 +0000      841 bytes  deviceinfo.d.ts</tspan>
+<tspan x="10" y="330"> 16.  2017-04-21 12:26:47 +0000     1609 bytes  deviceinfo.js</tspan>
+<tspan x="10" y="346"> 17.  2017-04-21 12:26:47 +0000      556 bytes  package.json</tspan>
+<tspan x="10" y="362"> 18.  2017-04-21 12:26:47 +0000     1062 bytes  windows/RNDeviceInfo/Properties/AssemblyInfo.cs</tspan>
+<tspan x="10" y="378"> 19.  2017-04-21 12:26:47 +0000     1542 bytes  windows/RNDeviceInfo/Properties/RNDeviceInfo.rd.\</tspan>
 <tspan x="10" y="394">xml</tspan>
-<tspan x="10" y="410"> 20.  2017-04-21 12:25:47 +0000     6202 bytes  windows/RNDeviceInfo/RNDeviceInfo.csproj</tspan>
-<tspan x="10" y="426"> 21.  2017-04-21 12:25:47 +0000     3503 bytes  windows/RNDeviceInfo/RNDeviceInfo.sln</tspan>
-<tspan x="10" y="442"> 22.  2017-04-21 12:25:47 +0000     4350 bytes  windows/RNDeviceInfo/RNDeviceInfoModule.cs</tspan>
-<tspan x="10" y="458"> 23.  2017-04-21 12:25:47 +0000      762 bytes  windows/RNDeviceInfo/RNDeviceInfoPackage.cs</tspan>
-<tspan x="10" y="474"> 24.  2017-04-21 12:25:47 +0000      287 bytes  windows/RNDeviceInfo/project.json</tspan>
+<tspan x="10" y="410"> 20.  2017-04-21 12:26:47 +0000     6202 bytes  windows/RNDeviceInfo/RNDeviceInfo.csproj</tspan>
+<tspan x="10" y="426"> 21.  2017-04-21 12:26:47 +0000     3503 bytes  windows/RNDeviceInfo/RNDeviceInfo.sln</tspan>
+<tspan x="10" y="442"> 22.  2017-04-21 12:26:47 +0000     4350 bytes  windows/RNDeviceInfo/RNDeviceInfoModule.cs</tspan>
+<tspan x="10" y="458"> 23.  2017-04-21 12:26:47 +0000      762 bytes  windows/RNDeviceInfo/RNDeviceInfoPackage.cs</tspan>
+<tspan x="10" y="474"> 24.  2017-04-21 12:26:47 +0000      287 bytes  windows/RNDeviceInfo/project.json</tspan>
 </text>
 </svg>
